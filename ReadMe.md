@@ -1,4 +1,4 @@
-## COVID Statistics SQL Data Exploration Project
+## COVID Statistics Data Exploration Project in SQL
 
 ### Overview
 
